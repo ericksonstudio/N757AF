@@ -3,7 +3,7 @@ Donald Trump's 757 Livery for FlightGear (757-200)
 
 This livery is for the current 757-200 (Rolls Royce) aircraft model available for FlightGear.
 
-The real-life N757AF is a Boeing 757-2J4ER, not a 757-200, but as this is the only 757 model available in FlightGear it was the closest match. The only noticable difference is the 757-2J4ER has winglets whereas the 757-200 does not.
+The real-life N757AF is a Boeing 757-2J4ER, not a 757-200, but as this is the only 757 model available in FlightGear it was the closest match. The only noticeable difference is the 757-2J4ER has winglets whereas the 757-200 does not.
 
 **Installation:**
 
